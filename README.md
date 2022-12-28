@@ -1,4 +1,4 @@
-![logo](https://github.com/AtreyaBag/AtreyaBag/blob/main/helloworld_finished.png)
+![logo](https://github.com/AtreyaBag/AtreyaBag/blob/main/helloworld_finished1.png)
 <h1 align="center">Hi 👋, I'm Atreya Bag</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
