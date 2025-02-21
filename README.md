@@ -1,6 +1,6 @@
 ![logo](https://github.com/AtreyaBag/AtreyaBag/blob/main/helloworld_finished1.png)
 <h1 align="center">Hi 👋, I'm Atreya Bag</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">DATA ENGINEER @ TEKSYSTEMS GLOBAL SERVICES</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://atreyabag.github.io/portfolio/](https://atreyabag.github.io/portfolio/)
 
-- 💬 Ask me about **C++,Python,MySQL,MERN Stack**
+- 💬 Ask me about **C++,Python,MySQL,GOOGLE CLOUD,SNOWFLAKE, AWS, TABLEAU**
 
 - 📫 How to reach me **atreyabag26@gmail.com**
 
-- ⚡ Fun fact **I am funny😁**
+- ⚡ Fun fact **Have a good sense of Humour😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
