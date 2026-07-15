@@ -1,35 +1,119 @@
 ![logo](https://github.com/AtreyaBag/AtreyaBag/blob/main/helloworld_finished1.png)
-<h1 align="center">Hi 👋, I'm Atreya Bag</h1>
-<h3 align="center">DATA ENGINEER @ TEKSYSTEMS GLOBAL SERVICES</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2c5364,100:7aa2f7&height=220&section=header&text=Hi%20There,%20I'm%20Atreya%20Bag%20👋&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20@%20TEKsystems%20Global%20Services&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atreyabag&label=Profile%20views&color=0e75b6&style=flat" alt="atreyabag" /> </p>
+<a href="https://github.com/AtreyaBag">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+TEKsystems+Global+Services;Building+Scalable+Cloud+Data+Pipelines;Python+%7C+SQL+%7C+GCP+%7C+AWS+%7C+Snowflake;Turning+Raw+Data+Into+Real+Insights" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/atreya_bag" target="blank"><img src="https://img.shields.io/twitter/follow/atreya_bag?logo=twitter&style=for-the-badge" alt="atreya_bag" /></a> </p>
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://atreyabag.github.io/portfolio/](https://atreyabag.github.io/portfolio/)
+<img src="https://komarev.com/ghpvc/?username=AtreyaBag&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AtreyaBag?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers"/>
 
-- 💬 Ask me about **C++,Python,MySQL,GOOGLE CLOUD,SNOWFLAKE, AWS, TABLEAU**
+</div>
 
-- 📫 How to reach me **atreyabag26@gmail.com**
+<br/>
 
-- ⚡ Fun fact **Have a good sense of Humour😁**
+## 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/atreya_bag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atreya_bag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atreyabag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atreya bag" height="30" width="40" /></a>
-<a href="https://fb.com/atreya.26.bag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atreya bag" height="30" width="40" /></a>
-<a href="https://instagram.com/atreya_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atreya_26" height="30" width="40" /></a>
-</p>
+- 🔭 Working as a **Data Engineer** at **TEKsystems Global Services**
+- ⚙️ I design and optimize **ETL/ELT pipelines** across cloud data platforms
+- ☁️ Comfortable across the modern data stack — warehousing, orchestration, and BI
+- 📊 I enjoy turning messy, raw data into clean, decision-ready insights
+- 🌱 Always sharpening my skills in cloud data engineering and analytics
+- 📫 Reach me at **atreyabag26@gmail.com**
+- ⚡ Fun fact: **I have a good sense of humour 😁**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atreyabag&show_icons=true&locale=en&layout=compact" alt="atreyabag" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreyabag&show_icons=true&locale=en" alt="atreyabag" /></p>
+### 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreyabag&" alt="atreyabag" /></p>
+<a href="https://instagram.com/atreya_26" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/atreya_bag" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+</a>
+<a href="https://linkedin.com/in/atreyabag" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://fb.com/atreya.26.bag" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:atreyabag26@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=AtreyaBag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atreya's GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AtreyaBag&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165"/>
+
+<br/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AtreyaBag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtreyaBag&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtreyaBag&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/output/github-snake.svg" width="90%"/>
+</picture>
+
+<sub>⚠️ This animates once you add the <code>snake.yml</code> workflow below to your repo — see setup notes.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2c5364,100:1a1b27&height=150&section=footer&animation=fadeIn" width="100%"/>
+
