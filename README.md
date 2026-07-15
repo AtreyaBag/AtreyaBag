@@ -1,4 +1,3 @@
-![logo](https://github.com/AtreyaBag/AtreyaBag/blob/main/helloworld_finished1.png)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2c5364,100:7aa2f7&height=220&section=header&text=Hi%20There,%20I'm%20Atreya%20Bag%20👋&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20@%20TEKsystems%20Global%20Services&descAlignY=58&descSize=18" width="100%"/>
