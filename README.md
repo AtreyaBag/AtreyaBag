@@ -82,14 +82,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=AtreyaBag&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
