@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=AtreyaBag&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7](https://github-profile-trophy-winning.vercel.app/?username=AtreyaBag&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7)" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=AtreyaBag&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -93,7 +93,8 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtreyaBag&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+  <img src="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="49%"/>
+  <img src="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%"/>
 </div>
 
 <br/>
@@ -108,11 +109,8 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AtreyaBag/AtreyaBag/output/github-snake.svg" width="90%"/>
 </picture>
 
-<sub>⚠️ This animates once you add the <code>snake.yml</code> workflow below to your repo — see setup notes.</sub>
-
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2c5364,100:1a1b27&height=150&section=footer&animation=fadeIn" width="100%"/>
-
